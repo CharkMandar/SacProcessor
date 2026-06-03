@@ -175,6 +175,7 @@ class SACDataProcessor:
 
         Returns:
             Список метаданных SAC файлов
+
         """
         print(f"[3/3] Парсинг SAC файлов из {sac_dir}...")
 
